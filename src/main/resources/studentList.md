@@ -29,5 +29,14 @@
                 "16.07.2021",
                 "30.10.2021");
         List<Student> students = List.of(
-                new Student("firstName",  "LastName"),
+                new Student("Victor",  "Yakimuk"),
+                new Student("Aksana",  "Yuryeva"),
+                new Student("Tatsiana",  "Zapankova"),
+                new Student("Dmitriy",  "Saprykin"),
+                new Student("Pavel",  "Bahdzevich"),
+                new Student("Yaroslav",  "Zhimanov"),
+                new Student("Vasili",  "Zasinets"),
+                new Student("Илья",  ""),
+                
+                
         );
